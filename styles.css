@@ -15,7 +15,9 @@ p{
 img{
     width:50%;
 }
-
-img#robo{
+#robo{
     width:20%;
+}
+.textovermelho{
+    color:red;
 }
